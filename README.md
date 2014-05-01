@@ -1,4 +1,4 @@
 reputationbox
 =============
 
-GSOC 2014 project repo
+GSOC 2014 project repository.
